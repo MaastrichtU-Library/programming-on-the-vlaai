@@ -1,0 +1,21 @@
+body {
+  color: #1f2933;
+}
+
+.navbar {
+  border-bottom: 1px solid rgba(0, 162, 219, 1);
+}
+
+h1 {
+  color: #12343b;
+}
+h2 {
+  color: #12343b;
+}
+h3 {
+  color: #12343b;
+}
+
+table {
+  width: 100%;
+}

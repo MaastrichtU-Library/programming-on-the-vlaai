@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "course.html",
+    "href": "course.html",
+    "title": "Course",
+    "section": "",
+    "text": "This page is a placeholder for course material. The goal is to establish the page pattern before writing the real curriculum."
+  },
+  {
+    "objectID": "course.html#module-1",
+    "href": "course.html#module-1",
+    "title": "Course",
+    "section": "Module 1",
+    "text": "Module 1\nLearners start with a short introduction to the working environment and the core concepts for the course.\n\nLearning goals\n\nDescribe the purpose of the project\nNavigate the course website\nRun a small reproducible example"
+  },
+  {
+    "objectID": "course.html#module-2",
+    "href": "course.html#module-2",
+    "title": "Course",
+    "section": "Module 2",
+    "text": "Module 2\nThis section can later hold exercises, walkthroughs, slides, or links to notebooks.\nExample placeholder:\nReplace this block with a real exercise once the first module is drafted."
+  },
+  {
+    "objectID": "course.html#next-steps",
+    "href": "course.html#next-steps",
+    "title": "Course",
+    "section": "Next steps",
+    "text": "Next steps\nReplace this dummy content with the first real lesson outline, then split additional material into new pages as the structure becomes clearer.\n\n\n\nCol1\nCol2\nCol3"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Programming on the VLAI",
+    "section": "",
+    "text": "Welcome to the first draft of this Quarto website. This page is intentionally small and uses placeholder content so the structure can be reviewed before adding real material."
+  },
+  {
+    "objectID": "index.html#purpose",
+    "href": "index.html#purpose",
+    "title": "Programming on the VLAI",
+    "section": "Purpose",
+    "text": "Purpose\nThis site will become a home for course notes, examples, and supporting resources. For now, the MVP has two pages:\n\nan overview page for the project direction\na course page for dummy learning content"
+  },
+  {
+    "objectID": "index.html#what-goes-here",
+    "href": "index.html#what-goes-here",
+    "title": "Programming on the VLAI",
+    "section": "What goes here",
+    "text": "What goes here\nUse this page for the high-level narrative: who the site is for, what learners will do, and how the material is organized."
+  },
+  {
+    "objectID": "index.html#draft-sections",
+    "href": "index.html#draft-sections",
+    "title": "Programming on the VLAI",
+    "section": "Draft sections",
+    "text": "Draft sections\n\n\n\nSection\nPlaceholder focus\n\n\n\n\nOverview\nCourse context and objectives\n\n\nCourse\nModules, readings, and exercises\n\n\nResources\nLinks, templates, and examples"
+  }
+]
