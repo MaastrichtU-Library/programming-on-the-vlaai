@@ -1,0 +1,25 @@
+---
+title: "Programming on the VLAI"
+subtitle: "A minimal website MVP"
+---
+
+Welcome to the first draft of this Quarto website. This page is intentionally small and uses placeholder content so the structure can be reviewed before adding real material.
+
+## Purpose
+
+This site will become a home for course notes, examples, and supporting resources. For now, the MVP has two pages:
+
+- an overview page for the project direction
+- a course page for dummy learning content
+
+## What goes here
+
+Use this page for the high-level narrative: who the site is for, what learners will do, and how the material is organized.
+
+## Draft sections
+
+| Section   | Placeholder focus                |
+|-----------|----------------------------------|
+| Overview  | Course context and objectives    |
+| Course    | Modules, readings, and exercises |
+| Resources | Links, templates, and examples   |

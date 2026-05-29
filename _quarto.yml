@@ -1,0 +1,30 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Programming on the VLAI"
+  description: "A minimal Quarto website MVP for developing course content."
+  page-navigation: true
+  navbar:
+    background: "#00A2DB"
+    align: center
+    left:
+      - text: "Overview"
+        href: index.qmd
+      - text: "Course"
+        href: course.qmd
+  page-footer:
+    left: "Built with [Quarto](https://quarto.org/)."
+    background: "#00A2DB"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+
+freeze: auto
+editor: visual

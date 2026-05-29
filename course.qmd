@@ -1,0 +1,36 @@
+---
+title: "Course"
+subtitle: "Dummy content for the second MVP page"
+---
+
+This page is a placeholder for course material. The goal is to establish the page pattern before writing the real curriculum.
+
+## Module 1
+
+Learners start with a short introduction to the working environment and the core concepts for the course.
+
+### Learning goals
+
+- Describe the purpose of the project
+- Navigate the course website
+- Run a small reproducible example
+
+## Module 2
+
+This section can later hold exercises, walkthroughs, slides, or links to notebooks.
+
+Example placeholder:
+
+``` text
+Replace this block with a real exercise once the first module is drafted.
+```
+
+## Next steps
+
+Replace this dummy content with the first real lesson outline, then split additional material into new pages as the structure becomes clearer.
+
+| Col1 | Col2 | Col3 |
+|------|------|------|
+|      |      |      |
+|      |      |      |
+|      |      |      |
