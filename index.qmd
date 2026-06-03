@@ -1,25 +1,41 @@
 ---
-title: "Programming on the VLAI"
-subtitle: "A minimal website MVP"
+title: "Programming on the VLAAI"
+subtitle: "Programming CAFE · Learn. Code. Collaborate. Together."
 ---
 
-Welcome to the first draft of this Quarto website. This page is intentionally small and uses placeholder content so the structure can be reviewed before adding real material.
+::: hero
+![](images/Cat%20logo%20vlaai.jpg){width="260px"}
 
-## Purpose
+**Based on the CAFE method**  - Code Along, Feel Empowered
 
-This site will become a home for course notes, examples, and supporting resources. For now, the MVP has two pages:
+A relaxed, friendly space to learn and practice scientific coding at Maastricht University.
+:::
 
-- an overview page for the project direction
-- a course page for dummy learning content
+## What to expect
 
-## What goes here
+Each session includes:
 
-Use this page for the high-level narrative: who the site is for, what learners will do, and how the material is organized.
+- 🎤 **Themed mini-talk or demo** (30–60 min) on a specific topic
+- 💻 **Code along** — bring your laptop and work on what matters to you
+- 💬 **Ask questions** — bring your bugs, errors, and questions
+- 👥 **Share knowledge** — learn from and help each other
+- 🍰 **Enjoy vlaai** — good code, good company, good cake
 
-## Draft sections
+## Session themes
 
-| Section   | Placeholder focus                |
-|-----------|----------------------------------|
-| Overview  | Course context and objectives    |
-| Course    | Modules, readings, and exercises |
-| Resources | Links, templates, and examples   |
+Examples of what we will cover:
+
+Intro to R and Python · Git & GitHub · AI tools for research · Data visualisation · Ethics in coding · and more.
+
+## Upcoming sessions
+
+| Session                   | Date                 | Location |
+|---------------------------|----------------------|----------|
+| First session — theme TBC | September 2025 (TBC) | TBC      |
+
+## Contact us
+
+Suggest topics, propose a talk, or just say hi:
+
+- melisse.houbrechts\@maastrichtuniversity.nl
+- alisa.huber\@maastrichtuniversity.nl
