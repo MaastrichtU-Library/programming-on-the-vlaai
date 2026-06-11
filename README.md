@@ -1,11 +1,11 @@
-# Programming on the VLAI
+# Programming on the VLAAI
 
 Minimal Quarto website MVP.
 
 ## Pages
 
 - `index.qmd`: overview page
-- `course.qmd`: dummy course content page
+- `course.qmd`: dummy course content page (temporary not displayed)
 
 ## Render locally
 
