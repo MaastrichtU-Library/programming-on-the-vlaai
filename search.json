@@ -1,5 +1,40 @@
 [
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Programming on the VLAAI",
+    "section": "",
+    "text": "Based on the CAFE method - Code Along, Feel Empowered\nA relaxed, friendly space to learn and practice scientific coding at Maastricht University."
+  },
+  {
+    "objectID": "index.html#what-to-expect",
+    "href": "index.html#what-to-expect",
+    "title": "Programming on the VLAAI",
+    "section": "What to expect",
+    "text": "What to expect\nEach session includes:\n\n🎤 Themed mini-talk or demo (30–60 min) on a specific topic\n💻 Code along — bring your laptop and work on what matters to you\n💬 Ask questions — bring your bugs, errors, and questions\n👥 Share knowledge — learn from and help each other\n🍰 Enjoy vlaai — good code, good company, good cake"
+  },
+  {
+    "objectID": "index.html#session-themes",
+    "href": "index.html#session-themes",
+    "title": "Programming on the VLAAI",
+    "section": "Session themes",
+    "text": "Session themes\nExamples of what we will cover:\nIntro to R and Python · Git & GitHub · AI tools for research · Data visualisation · Ethics in coding · and more."
+  },
+  {
+    "objectID": "index.html#upcoming-sessions",
+    "href": "index.html#upcoming-sessions",
+    "title": "Programming on the VLAAI",
+    "section": "Upcoming sessions",
+    "text": "Upcoming sessions\n\n\n\nSession\nDate\nLocation\n\n\n\n\nFirst session — theme TBC\nSeptember 2026 (TBC)\nTBC"
+  },
+  {
+    "objectID": "index.html#contact-us",
+    "href": "index.html#contact-us",
+    "title": "Programming on the VLAAI",
+    "section": "Contact us",
+    "text": "Contact us\nSuggest topics, propose a talk, or just say hi:\n\nmelisse.houbrechts@maastrichtuniversity.nl\nalisa.huber@maastrichtuniversity.nl"
+  },
+  {
     "objectID": "course.html",
     "href": "course.html",
     "title": "Course",
@@ -26,33 +61,5 @@
     "title": "Course",
     "section": "Next steps",
     "text": "Next steps\nReplace this dummy content with the first real lesson outline, then split additional material into new pages as the structure becomes clearer.\n\n\n\nCol1\nCol2\nCol3"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Programming on the VLAI",
-    "section": "",
-    "text": "Welcome to the first draft of this Quarto website. This page is intentionally small and uses placeholder content so the structure can be reviewed before adding real material."
-  },
-  {
-    "objectID": "index.html#purpose",
-    "href": "index.html#purpose",
-    "title": "Programming on the VLAI",
-    "section": "Purpose",
-    "text": "Purpose\nThis site will become a home for course notes, examples, and supporting resources. For now, the MVP has two pages:\n\nan overview page for the project direction\na course page for dummy learning content"
-  },
-  {
-    "objectID": "index.html#what-goes-here",
-    "href": "index.html#what-goes-here",
-    "title": "Programming on the VLAI",
-    "section": "What goes here",
-    "text": "What goes here\nUse this page for the high-level narrative: who the site is for, what learners will do, and how the material is organized."
-  },
-  {
-    "objectID": "index.html#draft-sections",
-    "href": "index.html#draft-sections",
-    "title": "Programming on the VLAI",
-    "section": "Draft sections",
-    "text": "Draft sections\n\n\n\nSection\nPlaceholder focus\n\n\n\n\nOverview\nCourse context and objectives\n\n\nCourse\nModules, readings, and exercises\n\n\nResources\nLinks, templates, and examples"
   }
 ]

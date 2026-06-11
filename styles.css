@@ -1,21 +1,283 @@
-body {
-  color: #1f2933;
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800&family=Atkinson+Hyperlegible:wght@400;700&display=swap');
+
+/* Color Palette */
+:root {
+  --primary: #2F95D6;          /* Main blue */
+  --primary-dark: #003B70;     /* Dark university blue */
+  --accent: #E39017;           /* Vlaai orange */
+  --accent-light: #F7E7D3;     /* Soft orange background */
+
+  --text: #24323D;
+  --text-light: #5C6B73;
+
+  --background: #FAFAFA;
+  --white: #FFFFFF;
+
+  --border: #DDE6ED;
 }
 
-.navbar {
-  border-bottom: 1px solid rgba(0, 162, 219, 1);
+/* ==========================================
+   General
+   ========================================== */
+
+body {
+  background-color: var(--background);
+  color: var(--text);
+  font-family: 'Atkinson Hyperlegible', sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  padding-top: 80px;
+}
+
+main {
+  max-width: 1000px;
+}
+
+/* ==========================================
+   Headings
+   ========================================== */
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Outfit', sans-serif;
+  color: var(--primary-dark);
+  font-weight: 700;
+  margin-top: 1.5rem;
 }
 
 h1 {
-  color: #12343b;
+  font-size: 3rem;
+  font-weight: 800;
 }
+
 h2 {
-  color: #12343b;
+  font-size: 2rem;
+  border-bottom: 3px solid var(--accent);
+  padding-bottom: 0.3rem;
+  margin-bottom: 1rem;
 }
+
 h3 {
-  color: #12343b;
+  font-size: 1.4rem;
 }
+
+/* ==========================================
+   Title Block
+   ========================================== */
+
+.quarto-title {
+  text-align: center;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
+.quarto-title h1.title {
+  color: var(--primary);
+  font-family: 'Outfit', sans-serif;
+  font-weight: 800;
+  font-size: 3.5rem;
+  letter-spacing: -0.02em;
+}
+
+.quarto-title .subtitle {
+  color: var(--accent);
+  font-size: 1.1rem;
+  font-weight: 600;
+  font-family: 'Outfit', sans-serif;
+}
+
+/* ==========================================
+   Navigation Bar
+   ========================================== */
+
+.navbar {
+  border-bottom: 4px solid var(--accent);
+  background-color: white;
+   margin-bottom: 1rem;
+}
+
+.navbar-brand {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 700;
+  font-style: italic;
+  color: var(--primary-dark);
+  padding-right: 1rem;
+  white-space: nowrap;
+}
+
+.navbar-nav .nav-link {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 500;
+}
+
+.navbar-nav .nav-link:hover {
+  color: var(--accent);
+}
+
+/* ==========================================
+   Links
+   ========================================== */
+
+a {
+  color: var(--primary);
+  text-decoration: none;
+  transition: 0.2s ease;
+}
+
+a:hover {
+  color: var(--accent);
+}
+
+/* ==========================================
+   Buttons
+   ========================================== */
+
+.btn-primary {
+  background-color: var(--primary);
+  border-color: var(--primary);
+}
+
+.btn-primary:hover {
+  background-color: var(--primary-dark);
+  border-color: var(--primary-dark);
+}
+
+/* ==========================================
+   Callouts
+   ========================================== */
+
+.callout {
+  border-radius: 12px;
+  border: none;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+}
+
+.callout-note {
+  background-color: #f4fbff;
+}
+
+.callout-tip {
+  background-color: var(--accent-light);
+}
+
+.callout-important {
+  background-color: #fff4e6;
+}
+
+/* ==========================================
+   Tables
+   ========================================== */
 
 table {
   width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+}
+
+thead tr {
+  background-color: var(--primary);
+  color: white;
+}
+
+th {
+  font-family: 'Outfit', sans-serif;
+  font-weight: 600;
+}
+
+th,
+td {
+  padding: 12px 16px;
+  border: 1px solid var(--border);
+}
+
+tbody tr:nth-child(even) {
+  background-color: #f8fbfd;
+}
+
+/* ==========================================
+   Images
+   ========================================== */
+
+img {
+  border-radius: 10px;
+}
+
+/* ==========================================
+   Code Blocks
+   ========================================== */
+
+pre,
+code {
+  font-family: "Consolas", "Courier New", monospace;
+}
+
+pre {
+  border-radius: 10px;
+  border: 1px solid var(--border);
+}
+
+/* ==========================================
+   Footer
+   ========================================== */
+
+.nav-footer {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border);
+  color: var(--text-light);
+  font-size: 0.9rem;
+}
+
+/* ==========================================
+   Cards
+   ========================================== */
+
+.card {
+  border-radius: 12px;
+  border: 1px solid var(--border);
+}
+
+.card-title {
+  font-family: 'Outfit', sans-serif;
+  color: var(--primary-dark);
+}
+
+/* ==========================================
+   Horizontal Rules
+   ========================================== */
+
+hr {
+  border: none;
+  border-top: 2px solid var(--border);
+  margin: 2rem 0;
+}
+
+/* ==========================================
+   Optional Hero Section
+   ========================================== */
+
+.hero {
+  background: linear-gradient(135deg, var(--primary) 0%, var(--primary-dark) 100%);
+  color: white;
+  padding: 2.5rem 1.5rem;   
+  border-radius: 16px;
+  text-align: center;
+  margin: 1.5rem auto;     
+  max-width: 900px;        
+}
+
+.hero img {
+  margin-bottom: 1rem;
+  border-radius: 50%;
+  box-shadow:  0 6px 18px rgba(0,0,0,0.08);
+}
+
+.hero h1 {
+  font-size: 3rem;
+  margin-top: 0.5rem;
+}
+
+.hero p {
+  font-size: 1.2rem;
+  opacity: 0.95;
 }
