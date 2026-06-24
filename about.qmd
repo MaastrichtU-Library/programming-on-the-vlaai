@@ -1,0 +1,66 @@
+---
+title: "About Programming on the Vlaai"
+---
+
+## What is Programming on the Vlaai?
+
+Programming on the Vlaai is a welcoming space where researchers, students, and staff can learn and practice programming skills together.
+No prior experience is required. Everyone is welcome!
+
+## The CAFE Method
+
+Our Programming Café is based on the **CAFE (Code Along, Feel Empowered)** method — a framework for building inclusive, community-driven programming spaces at research institutions.
+
+The method was developed collaboratively by organizers from Utrecht University, TU Delft, VU Amsterdam, 4TU.ResearchData, and Leiden University, and was presented at the 2023 SURF Research Day.
+
+::: {.callout-note appearance="minimal"}
+📄 Cryan, A., Moopen, N., de Bruin, J., Wilczynska, A., Treep, J., van de Sandt, S., Karvovskaya, L., Vermaas, M., & Rudmann, D. (2023). *Code Along, Feel Empowered: Introducing the CAFE Method for programming learning communities*. Zenodo. <https://doi.org/10.5281/zenodo.8047119>
+:::
+
+
+## The levels
+
+During the Programming CAFE, we will host sessions that targets researchers at different skill levels. To make it easier to join in, we use levels to indicate the expected skill level for each session. The levels are:
+
+### Level 0: Code Novice
+You are just getting started. You may not have coded before, or you are exploring what programming is.
+
+### Level 1: Script Scribe
+You know a few basics (e.g. R or Python syntax) and can follow simple tutorials.
+
+### Level 2:Syntax Sorcerer
+You are comfortable writing scripts and solving problems independently with some guidance.
+
+### Level 3: Algorithm Alchemist
+You can build your own workflows, help others, and explore more complex projects.
+
+### Level 4: Bug Slayer
+Full to the brim and overflowing. You debug in production for fun.
+
+
+## How sessions work
+
+- You can come in with your own project or join a guided activity
+- People work at their own pace
+- Helpers are available to support different levels
+- It’s completely okay to ask “basic” questions
+
+
+## Who is it for?
+
+Anyone interested in:
+
+- coding
+- data analysis
+- reproducible research
+- or just curious about programming
+
+
+
+## Other Programming CAFÉs in the Netherlands
+
+We are part of a growing national network of Programming Cafés. Similar communities exist at:
+
+- **Utrecht University** — [Programming Café](https://www.uu.nl/en/research/research-data-management/workshops/programming-cafe-0)
+- **Vrije Universiteit Amsterdam** — [Bytes & Bites](https://ubvu.github.io/bytes-and-bites/about.html)
+- **TU Delft / 4TU.ResearchData** — [R Café](https://community.data.4tu.nl/2025/10/02/r-cafe-november/)
