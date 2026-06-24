@@ -19,7 +19,7 @@ Each session includes:
 - 💻 **Code along** — bring your laptop and work on what matters to you
 - 💬 **Ask questions** — bring your bugs, errors, and questions
 - 👥 **Share knowledge** — learn from and help each other
-- 🍰 **Enjoy vlaai** — good code, good company, good cake
+- 🍰 **Enjoy vlaai** — good code, good company, good vlaai
 
 ## Session themes
 
