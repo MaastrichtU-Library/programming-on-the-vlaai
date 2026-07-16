@@ -11,7 +11,7 @@
     "href": "index.html#what-to-expect",
     "title": "Programming on the VLAAI",
     "section": "What to expect",
-    "text": "What to expect\nEach session includes:\n\n🎤 Themed mini-talk or demo (30–60 min) on a specific topic\n💻 Code along — bring your laptop and work on what matters to you\n💬 Ask questions — bring your bugs, errors, and questions\n👥 Share knowledge — learn from and help each other\n🍰 Enjoy vlaai — good code, good company, good cake"
+    "text": "What to expect\nEach session includes:\n\nThemed mini-talk or demo (30–60 min) on a specific topic\nCode along — bring your laptop and work on what matters to you\nAsk questions — bring your bugs, errors, and questions\nShare knowledge — learn from and help each other\nEnjoy Vlaai — good code, good company, good Vlaai"
   },
   {
     "objectID": "index.html#session-themes",
@@ -25,14 +25,63 @@
     "href": "index.html#upcoming-sessions",
     "title": "Programming on the VLAAI",
     "section": "Upcoming sessions",
-    "text": "Upcoming sessions\n\n\n\nSession\nDate\nLocation\n\n\n\n\nFirst session — theme TBC\nSeptember 2026 (TBC)\nTBC"
+    "text": "Upcoming sessions\nSessions are labeled by skill level — see the About page for details.\n\n\n\n\n\n\n\n\n\n\n\nSession\nSpeaker\nDate\nLocation\nLevel\n\n\n\n\nIntroduction to R\nWolfgang Viechtbauer\n29 September, 15:00\nTBC\nLevel 0 – Level 2"
   },
   {
     "objectID": "index.html#contact-us",
     "href": "index.html#contact-us",
     "title": "Programming on the VLAAI",
     "section": "Contact us",
-    "text": "Contact us\nSuggest topics, propose a talk, or just say hi:\n\nmelisse.houbrechts@maastrichtuniversity.nl\nalisa.huber@maastrichtuniversity.nl"
+    "text": "Contact us\nHave a question, suggestion, or idea for a session?\nContact us via Ask Your Librarian."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Programming on the Vlaai",
+    "section": "",
+    "text": "Programming on the Vlaai is a welcoming space where researchers, students, and staff can learn and practice programming skills together. No prior experience is required. Everyone is welcome!"
+  },
+  {
+    "objectID": "about.html#what-is-programming-on-the-vlaai",
+    "href": "about.html#what-is-programming-on-the-vlaai",
+    "title": "About Programming on the Vlaai",
+    "section": "",
+    "text": "Programming on the Vlaai is a welcoming space where researchers, students, and staff can learn and practice programming skills together. No prior experience is required. Everyone is welcome!"
+  },
+  {
+    "objectID": "about.html#the-cafe-method",
+    "href": "about.html#the-cafe-method",
+    "title": "About Programming on the Vlaai",
+    "section": "The CAFE Method",
+    "text": "The CAFE Method\nOur Programming Café is based on the CAFE (Code Along, Feel Empowered) method — a framework for building inclusive, community-driven programming spaces at research institutions.\nThe method was developed collaboratively by organizers from Utrecht University, TU Delft, VU Amsterdam, 4TU.ResearchData, and Leiden University, and was presented at the 2023 SURF Research Day.\n\n\n\n\n\n\n📄 Cryan, A., Moopen, N., de Bruin, J., Wilczynska, A., Treep, J., van de Sandt, S., Karvovskaya, L., Vermaas, M., & Rudmann, D. (2023). Code Along, Feel Empowered: Introducing the CAFE Method for programming learning communities. Zenodo. https://doi.org/10.5281/zenodo.8047119"
+  },
+  {
+    "objectID": "about.html#the-levels",
+    "href": "about.html#the-levels",
+    "title": "About Programming on the Vlaai",
+    "section": "The levels",
+    "text": "The levels\nDuring the Programming CAFE, we will host sessions that targets researchers at different skill levels. To make it easier to join in, we use levels to indicate the expected skill level for each session. The levels are:\n\nLevel 0\nYou are just getting started. You may not have coded before, or you are exploring what programming is.\n\n\nLevel 1\nYou know a few basics (e.g. R or Python syntax) and can follow simple tutorials.\n\n\nLevel 2\nYou are comfortable writing scripts and solving problems independently with some guidance.\n\n\nLevel 3\nYou can build your own workflows, help others, and explore more complex projects.\n\n\nLevel 4\nFull to the brim and overflowing. You debug in production for fun."
+  },
+  {
+    "objectID": "about.html#how-sessions-work",
+    "href": "about.html#how-sessions-work",
+    "title": "About Programming on the Vlaai",
+    "section": "How sessions work",
+    "text": "How sessions work\n\nYou can come in with your own project or join a guided activity\nPeople work at their own pace\nHelpers are available to support different levels\nIt’s completely okay to ask “basic” questions"
+  },
+  {
+    "objectID": "about.html#who-is-it-for",
+    "href": "about.html#who-is-it-for",
+    "title": "About Programming on the Vlaai",
+    "section": "Who is it for?",
+    "text": "Who is it for?\nResearchers, students, support staff from all facultiesand anyone interested in:\n\ncoding\ndata analysis\nreproducible research\nor just curious about programming"
+  },
+  {
+    "objectID": "about.html#other-programming-cafés-in-the-netherlands",
+    "href": "about.html#other-programming-cafés-in-the-netherlands",
+    "title": "About Programming on the Vlaai",
+    "section": "Other Programming CAFÉs in the Netherlands",
+    "text": "Other Programming CAFÉs in the Netherlands\nWe are part of a growing national network of Programming Cafés. Similar communities exist at:\n\nUtrecht University — Programming Café\nVrije Universiteit Amsterdam — Bytes & Bites\nTU Delft / 4TU.ResearchData — R Café"
   },
   {
     "objectID": "course.html",
