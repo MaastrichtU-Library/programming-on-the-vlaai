@@ -22,19 +22,19 @@ The method was developed collaboratively by organizers from Utrecht University, 
 
 During the Programming CAFE, we will host sessions that targets researchers at different skill levels. To make it easier to join in, we use levels to indicate the expected skill level for each session. The levels are:
 
-### Level 0: Code Novice
+### Level 0
 You are just getting started. You may not have coded before, or you are exploring what programming is.
 
-### Level 1: Script Scribe
+### Level 1
 You know a few basics (e.g. R or Python syntax) and can follow simple tutorials.
 
-### Level 2:Syntax Sorcerer
+### Level 2
 You are comfortable writing scripts and solving problems independently with some guidance.
 
-### Level 3: Algorithm Alchemist
+### Level 3
 You can build your own workflows, help others, and explore more complex projects.
 
-### Level 4: Bug Slayer
+### Level 4
 Full to the brim and overflowing. You debug in production for fun.
 
 
@@ -47,8 +47,7 @@ Full to the brim and overflowing. You debug in production for fun.
 
 
 ## Who is it for?
-
-Anyone interested in:
+Researchers, students, support staff from all facultiesand anyone interested in:
 
 - coding
 - data analysis

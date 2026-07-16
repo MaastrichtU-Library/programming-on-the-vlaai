@@ -7,9 +7,9 @@ website:
   description: "A relaxed, friendly space to learn and practice scientific coding at Maastricht University."
   page-navigation: true
   navbar:
-    background: "#00A2DB"
+    background: "#510702"
     align: center
-    logo: images/Cat logo vlaai.jpg
+    logo: images/icoon_vlaai.jpg
     logo-alt: "Programming on the Vlaai logo"
     left:
       - text: "Home"
@@ -21,7 +21,7 @@ website:
   page-footer:
     left: "Programming on the Vlaai · Maastricht University Library"
     right: "Built with [Quarto](https://quarto.org/)."
-    background: "#00A2DB"
+    background: "#510702"
 
 format:
   html:

@@ -1,12 +1,14 @@
 ---
 title: "Programming on the VLAAI"
-subtitle: "Programming CAFE · Learn. Code. Collaborate. Together."
+subtitle: |
+  <span class="subtitle-main">Programming CAFE</span><br>
+  <span class="subtitle-tagline">Learn. Code. Collaborate. Together.</span>
 ---
 
 ::: hero
-![](images/Cat%20logo%20vlaai.jpg){width="260px"}
+![](images/icoon_vlaai.jpg){width="260px"}
 
-**Based on the CAFE method**  - Code Along, Feel Empowered
+**Based on the CAFE method** - Code Along, Feel Empowered
 
 A relaxed, friendly space to learn and practice scientific coding at Maastricht University.
 :::
@@ -15,11 +17,11 @@ A relaxed, friendly space to learn and practice scientific coding at Maastricht 
 
 Each session includes:
 
-- 🎤 **Themed mini-talk or demo** (30–60 min) on a specific topic
-- 💻 **Code along** — bring your laptop and work on what matters to you
-- 💬 **Ask questions** — bring your bugs, errors, and questions
-- 👥 **Share knowledge** — learn from and help each other
-- 🍰 **Enjoy vlaai** — good code, good company, good cake
+- **Themed mini-talk or demo** (30–60 min) on a specific topic
+- **Code along** — bring your laptop and work on what matters to you
+- **Ask questions** — bring your bugs, errors, and questions
+- **Share knowledge** — learn from and help each other
+- **Enjoy Vlaai** — good code, good company, good Vlaai
 
 ## Session themes
 
@@ -29,13 +31,16 @@ Intro to R and Python · Git & GitHub · AI tools for research · Data visualisa
 
 ## Upcoming sessions
 
-| Session                   | Date                 | Location |
-|---------------------------|----------------------|----------|
-| First session — theme TBC | September 2026 (TBC) | TBC      |
+Sessions are labeled by [skill level](about.qmd#the-levels) — see the About page for details.
+
+::: section-card
+| Session           | Speaker              | Date                 | Location | Level             |
+|--------------------|----------------------|----------------------|----------|-------------------|
+| Introduction to R | Wolfgang Viechtbauer | 29 September, 15:00  | TBC      | Level 0 – Level 2 |
+:::
 
 ## Contact us
 
-Suggest topics, propose a talk, or just say hi:
+Have a question, suggestion, or idea for a session?
 
-- melisse.houbrechts\@maastrichtuniversity.nl
-- alisa.huber\@maastrichtuniversity.nl
+Contact us via [Ask Your Librarian](https://library.maastrichtuniversity.nl/contact/).
