@@ -1,38 +1,52 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Programming on the VLAAI",
+    "objectID": "sessions.html",
+    "href": "sessions.html",
+    "title": "Sessions",
     "section": "",
-    "text": "Based on the CAFE method - Code Along, Feel Empowered\nA relaxed, friendly space to learn and practice scientific coding at Maastricht University."
+    "text": "When\n29 September 2026, 15:00–17:00\n\n\nWhere\nMaastricht University — location TBC\n\n\nFor whom\nResearchers and students of Maastricht University\n\n\nLevel\nLevel 0 – Level 2\n\n\n\n\nSpeaker: Prof. Dr. Wolfgang Viechtbauer — Associate Professor of Methodology and Statistics, Department of Psychiatry, Faculty of Health, Medicine and Life Sciences, Maastricht University.\nR is one of the most widely used programming languages and open-source environments for statistical computing and data visualisation. It is applied across a broad range of research fields including the social sciences, economics, psychology, epidemiology, and bioinformatics.\nRegister"
   },
   {
-    "objectID": "index.html#what-to-expect",
-    "href": "index.html#what-to-expect",
-    "title": "Programming on the VLAAI",
-    "section": "What to expect",
-    "text": "What to expect\nEach session includes:\n\nThemed mini-talk or demo (30–60 min) on a specific topic\nCode along — bring your laptop and work on what matters to you\nAsk questions — bring your bugs, errors, and questions\nShare knowledge — learn from and help each other\nEnjoy Vlaai — good code, good company, good Vlaai"
+    "objectID": "sessions.html#upcoming-sessions",
+    "href": "sessions.html#upcoming-sessions",
+    "title": "Sessions",
+    "section": "",
+    "text": "When\n29 September 2026, 15:00–17:00\n\n\nWhere\nMaastricht University — location TBC\n\n\nFor whom\nResearchers and students of Maastricht University\n\n\nLevel\nLevel 0 – Level 2\n\n\n\n\nSpeaker: Prof. Dr. Wolfgang Viechtbauer — Associate Professor of Methodology and Statistics, Department of Psychiatry, Faculty of Health, Medicine and Life Sciences, Maastricht University.\nR is one of the most widely used programming languages and open-source environments for statistical computing and data visualisation. It is applied across a broad range of research fields including the social sciences, economics, psychology, epidemiology, and bioinformatics.\nRegister"
   },
   {
-    "objectID": "index.html#session-themes",
-    "href": "index.html#session-themes",
-    "title": "Programming on the VLAAI",
-    "section": "Session themes",
-    "text": "Session themes\nExamples of what we will cover:\nIntro to R and Python · Git & GitHub · AI tools for research · Data visualisation · Ethics in coding · and more."
+    "objectID": "sessions.html#past-sessions",
+    "href": "sessions.html#past-sessions",
+    "title": "Sessions",
+    "section": "Past sessions",
+    "text": "Past sessions\nNo past sessions yet — check back after September!"
   },
   {
-    "objectID": "index.html#upcoming-sessions",
-    "href": "index.html#upcoming-sessions",
-    "title": "Programming on the VLAAI",
-    "section": "Upcoming sessions",
-    "text": "Upcoming sessions\nSessions are labeled by skill level — see the About page for details.\n\n\n\n\n\n\n\n\n\n\n\nSession\nSpeaker\nDate\nLocation\nLevel\n\n\n\n\nIntroduction to R\nWolfgang Viechtbauer\n29 September, 15:00\nTBC\nLevel 0 – Level 2"
+    "objectID": "course.html",
+    "href": "course.html",
+    "title": "Course",
+    "section": "",
+    "text": "This page is a placeholder for course material. The goal is to establish the page pattern before writing the real curriculum."
   },
   {
-    "objectID": "index.html#contact-us",
-    "href": "index.html#contact-us",
-    "title": "Programming on the VLAAI",
-    "section": "Contact us",
-    "text": "Contact us\nHave a question, suggestion, or idea for a session?\nContact us via Ask Your Librarian."
+    "objectID": "course.html#module-1",
+    "href": "course.html#module-1",
+    "title": "Course",
+    "section": "Module 1",
+    "text": "Module 1\nLearners start with a short introduction to the working environment and the core concepts for the course.\n\nLearning goals\n\nDescribe the purpose of the project\nNavigate the course website\nRun a small reproducible example"
+  },
+  {
+    "objectID": "course.html#module-2",
+    "href": "course.html#module-2",
+    "title": "Course",
+    "section": "Module 2",
+    "text": "Module 2\nThis section can later hold exercises, walkthroughs, slides, or links to notebooks.\nExample placeholder:\nReplace this block with a real exercise once the first module is drafted."
+  },
+  {
+    "objectID": "course.html#next-steps",
+    "href": "course.html#next-steps",
+    "title": "Course",
+    "section": "Next steps",
+    "text": "Next steps\nReplace this dummy content with the first real lesson outline, then split additional material into new pages as the structure becomes clearer.\n\n\n\nCol1\nCol2\nCol3"
   },
   {
     "objectID": "about.html",
@@ -84,31 +98,38 @@
     "text": "Other Programming CAFÉs in the Netherlands\nWe are part of a growing national network of Programming Cafés. Similar communities exist at:\n\nUtrecht University — Programming Café\nVrije Universiteit Amsterdam — Bytes & Bites\nTU Delft / 4TU.ResearchData — R Café"
   },
   {
-    "objectID": "course.html",
-    "href": "course.html",
-    "title": "Course",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Programming on the VLAAI",
     "section": "",
-    "text": "This page is a placeholder for course material. The goal is to establish the page pattern before writing the real curriculum."
+    "text": "Based on the CAFE method - Code Along, Feel Empowered\nA relaxed, friendly space to learn and practice scientific coding at Maastricht University."
   },
   {
-    "objectID": "course.html#module-1",
-    "href": "course.html#module-1",
-    "title": "Course",
-    "section": "Module 1",
-    "text": "Module 1\nLearners start with a short introduction to the working environment and the core concepts for the course.\n\nLearning goals\n\nDescribe the purpose of the project\nNavigate the course website\nRun a small reproducible example"
+    "objectID": "index.html#what-to-expect",
+    "href": "index.html#what-to-expect",
+    "title": "Programming on the VLAAI",
+    "section": "What to expect",
+    "text": "What to expect\nEach session includes:\n\nThemed mini-talk or demo (30–60 min) on a specific topic\nCode along — bring your laptop and work on what matters to you\nAsk questions — bring your bugs, errors, and questions\nShare knowledge — learn from and help each other\nEnjoy Vlaai — good code, good company, good Vlaai"
   },
   {
-    "objectID": "course.html#module-2",
-    "href": "course.html#module-2",
-    "title": "Course",
-    "section": "Module 2",
-    "text": "Module 2\nThis section can later hold exercises, walkthroughs, slides, or links to notebooks.\nExample placeholder:\nReplace this block with a real exercise once the first module is drafted."
+    "objectID": "index.html#session-themes",
+    "href": "index.html#session-themes",
+    "title": "Programming on the VLAAI",
+    "section": "Session themes",
+    "text": "Session themes\nExamples of what we will cover:\nIntro to R and Python · Git & GitHub · AI tools for research · Data visualisation · Ethics in coding · and more."
   },
   {
-    "objectID": "course.html#next-steps",
-    "href": "course.html#next-steps",
-    "title": "Course",
-    "section": "Next steps",
-    "text": "Next steps\nReplace this dummy content with the first real lesson outline, then split additional material into new pages as the structure becomes clearer.\n\n\n\nCol1\nCol2\nCol3"
+    "objectID": "index.html#upcoming-sessions",
+    "href": "index.html#upcoming-sessions",
+    "title": "Programming on the VLAAI",
+    "section": "Upcoming sessions",
+    "text": "Upcoming sessions\nSessions are labeled by skill level — see the About page for details.\n\n\n\n\nSession\nSpeaker\nDate\nLocation\nLevel\n\n\n\n\nIntroduction to R\nWolfgang Viechtbauer\n29 September, 15:00\nTBC\nLevel 0 – Level 2"
+  },
+  {
+    "objectID": "index.html#contact-us",
+    "href": "index.html#contact-us",
+    "title": "Programming on the VLAAI",
+    "section": "Contact us",
+    "text": "Contact us\nHave a question, suggestion, or idea for a session?\nReach out to us at researchsoftware-ub@maastrichtuniversity.nl."
   }
 ]

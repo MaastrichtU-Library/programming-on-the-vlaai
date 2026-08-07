@@ -115,10 +115,16 @@ h3 {
 .navbar-nav .nav-link {
   color: white;
   font-family: Aptos, Arial, sans-serif;
+  font-size: 1.6rem;
 }
 
 .navbar-nav .nav-link:hover {
   color: var(--accent);
+}
+
+.navbar-logo {
+  height: 70px !important;
+  width: auto;
 }
 
 /* ==========================================
@@ -233,7 +239,7 @@ pre {
   padding-top: 2rem;
   border-top: 1px solid var(--border);
   color: var(--text-light);
-  font-size: 0.9rem;
+  font-size: 1.3rem;
 }
 
 /* ==========================================
@@ -265,8 +271,8 @@ hr {
    ========================================== */
 
 .hero {
-  background: var(--accent-light);
-  color: var(--text);
+  background: var(--primary);
+  color: white;
   padding: 2.5rem 1.5rem;
   border-radius: 16px;
   text-align: center;
@@ -378,4 +384,33 @@ main ul li::before {
 
 .section-card table {
   margin-bottom: 0;
+}
+
+
+/* ==========================================
+   Session Cards
+   ========================================== */
+
+.session-card {
+  background-color: var(--accent-light);
+  border-left: 4px solid var(--primary);
+  border-radius: 12px;
+  padding: 1.5rem 2rem;
+  margin: 1.5rem 0;
+}
+
+.session-title {
+  color: var(--primary);
+  margin-top: 0;
+}
+
+.session-meta table {
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+}
+
+.session-meta td {
+  border: none;
+  padding: 4px 12px 4px 0;
+  color: var(--text);
 }
