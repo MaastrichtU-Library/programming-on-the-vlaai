@@ -1,0 +1,56 @@
+---
+title: "Sessions"
+subtitle: "An overview of all Programming on the Vlaai sessions"
+---
+
+## Upcoming sessions
+
+::: session-card
+### Introduction to R {.session-title}
+
+::: session-meta
+| | |
+|---|---|
+| **When** | 29 September 2026, 15:00–17:00 |
+| **Where** | Maastricht University — location TBC |
+| **For whom** | Researchers and students of Maastricht University |
+| **Level** | [Level 0 – Level 2](about.qmd#the-levels) |
+:::
+
+**Speaker:** Prof. Dr. Wolfgang Viechtbauer — Associate Professor of Methodology and Statistics, Department of Psychiatry, Faculty of Health, Medicine and Life Sciences, Maastricht University.
+
+R is one of the most widely used programming languages and open-source environments for statistical computing and data visualisation. It is applied across a broad range of research fields including the social sciences, economics, psychology, epidemiology, and bioinformatics.
+
+[Register](#{.btn .btn-primary .disabled}){.btn .btn-primary}
+:::
+
+---
+
+## Past sessions
+
+*No past sessions yet — check back after September!*
+
+---
+
+<!--
+TEMPLATE — copy and paste this block to add a new session:
+
+::: session-card
+### SESSION TITLE {.session-title}
+
+::: session-meta
+| | |
+|---|---|
+| 📅 **When** | DATE, TIME |
+| 📍 **Where** | LOCATION |
+| 👥 **For whom** | AUDIENCE |
+| 🎟️ **Registration** | LINK or "Coming soon" |
+:::
+
+**Speaker:** NAME — TITLE, DEPARTMENT, FACULTY, Maastricht University.
+
+DESCRIPTION PARAGRAPH
+
+[Register](LINK){.btn .btn-primary}
+:::
+-->

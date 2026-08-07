@@ -36,11 +36,11 @@ Sessions are labeled by [skill level](about.qmd#the-levels) — see the About pa
 ::: section-card
 | Session           | Speaker              | Date                 | Location | Level             |
 |--------------------|----------------------|----------------------|----------|-------------------|
-| Introduction to R | Wolfgang Viechtbauer | 29 September, 15:00  | TBC      | Level 0 – Level 2 |
+| [Introduction to R](sessions.qmd) | Wolfgang Viechtbauer | 29 September, 15:00  | TBC      | Level 0 – Level 2 |
 :::
 
 ## Contact us
 
 Have a question, suggestion, or idea for a session?
 
-Contact us via [Ask Your Librarian](https://library.maastrichtuniversity.nl/contact/).
+Reach out to us at [researchsoftware-ub@maastrichtuniversity.nl](mailto:researchsoftware-ub@maastrichtuniversity.nl).

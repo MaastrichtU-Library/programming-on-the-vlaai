@@ -11,15 +11,17 @@ website:
     align: center
     logo: images/icoon_vlaai.jpg
     logo-alt: "Programming on the Vlaai logo"
+    logo-height: 70px
     left:
       - text: "Home"
         href: index.qmd
       - text: "About"
         href: about.qmd
-      #- text: "Course"
-       # href: course.qmd
+      - text: "Sessions"
+        href: sessions.qmd
   page-footer:
-    left: "Programming on the Vlaai · Maastricht University Library"
+    left: "Programming on the Vlaai · ©Maastricht University Library"
+    center: "[Disclaimer](https://www.maastrichtuniversity.nl/disclaimer)"
     right: "Built with [Quarto](https://quarto.org/)."
     background: "#510702"
 
