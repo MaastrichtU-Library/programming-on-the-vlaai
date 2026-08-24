@@ -14,6 +14,8 @@
   --white: #FFFFFF;
 
   --border: #DDE6ED;
+  --primary-light: #E7EBF0;
+--accent-hover: #4A6FA5;
 }
 
 /* ==========================================
@@ -200,8 +202,7 @@ th {
 th,
 td {
   padding: 12px 16px;
-  border: 1px solid ;
-  color: white;
+  border: 1px solid var(--border);
 }
 
 tbody tr:nth-child(even) {
@@ -366,7 +367,7 @@ main ul li::before {
   top: 0.6em;
   width: 8px;
   height: 8px;
-  background-color: var(--accent);
+  background-color: var(--primary-dark);
   border-radius: 50%;
 }
 
@@ -376,7 +377,7 @@ main ul li::before {
    ========================================== */
 
 .section-card {
-  background-color: var(--accent-light);
+  background-color: var(--primary-light);
   border-radius: 16px;
   padding: 1.5rem 2rem;
   margin: 1.5rem 0;
@@ -392,7 +393,7 @@ main ul li::before {
    ========================================== */
 
 .session-card {
-  background-color: var(--accent-light);
+  background-color: var(--primary-light);
   border-left: 4px solid var(--primary);
   border-radius: 12px;
   padding: 1.5rem 2rem;
@@ -413,4 +414,54 @@ main ul li::before {
   border: none;
   padding: 4px 12px 4px 0;
   color: var(--text);
+}
+
+/* ==========================================
+   Sticky Registration Banner
+   ========================================== */
+
+.registration-banner {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  background-color: var(--primary);
+  color: white;
+  padding: 1.5rem 2rem;              /* was 1rem 1.5rem */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+  box-shadow: 0 -2px 12px rgba(0, 0, 0, 0.2);
+}
+
+.registration-banner p {
+  margin: 0;
+  font-size: 1.35rem;                /* was 1.1rem */
+  font-weight: 600;
+  color: white;
+}
+
+.registration-banner a.btn-register {
+  background-color: var(--accent);
+  color: var(--primary-dark);
+  font-weight: 700;
+  font-size: 1.1rem;                 /* new */
+  padding: 0.85rem 2rem;             /* was 0.6rem 1.5rem */
+  border-radius: 30px;
+  text-decoration: none;
+  white-space: nowrap;
+  transition: 0.2s ease;
+}
+
+.registration-banner a.btn-register:hover {
+  background-color: white;
+  color: var(--primary);
+}
+
+/* Only add bottom spacing on pages that actually have the banner */
+body:has(.registration-banner) {
+  padding-bottom: 130px;   /* was 90px */
 }

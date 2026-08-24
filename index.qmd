@@ -5,6 +5,11 @@ subtitle: |
   <span class="subtitle-tagline">Learn. Code. Collaborate. Together.</span>
 ---
 
+<div class="registration-banner">
+  <p> Registration for "Introduction to R" is now open!</p>
+  <a class="btn-register" href="https://library.maastrichtuniversity.nl/events/programming-on-the-vlaai/" target="_blank">Register Now</a>
+</div>
+
 ::: hero
 ![](images/icoon_vlaai.jpg){width="260px"}
 
