@@ -4,8 +4,7 @@ title: "About Programming on the Vlaai"
 
 ## What is Programming on the Vlaai?
 
-Programming on the Vlaai is a welcoming space where researchers, students, and staff can learn and practice programming skills together.
-No prior experience is required. Everyone is welcome!
+Programming on the Vlaai is a welcoming space where researchers, students, and staff can learn and practice programming skills together. No prior experience is required. Everyone is welcome!
 
 ## The CAFE Method
 
@@ -17,26 +16,29 @@ The method was developed collaboratively by organizers from Utrecht University, 
 📄 Cryan, A., Moopen, N., de Bruin, J., Wilczynska, A., Treep, J., van de Sandt, S., Karvovskaya, L., Vermaas, M., & Rudmann, D. (2023). *Code Along, Feel Empowered: Introducing the CAFE Method for programming learning communities*. Zenodo. <https://doi.org/10.5281/zenodo.8047119>
 :::
 
-
 ## The levels
 
 During the Programming CAFE, we will host sessions that targets researchers at different skill levels. To make it easier to join in, we use levels to indicate the expected skill level for each session. The levels are:
 
 ### Level 0
+
 You are just getting started. You may not have coded before, or you are exploring what programming is.
 
 ### Level 1
+
 You know a few basics (e.g. R or Python syntax) and can follow simple tutorials.
 
 ### Level 2
+
 You are comfortable writing scripts and solving problems independently with some guidance.
 
 ### Level 3
+
 You can build your own workflows, help others, and explore more complex projects.
 
 ### Level 4
-Full to the brim and overflowing. You debug in production for fun.
 
+Full to the brim and overflowing. You debug in production for fun.
 
 ## How sessions work
 
@@ -45,16 +47,28 @@ Full to the brim and overflowing. You debug in production for fun.
 - Helpers are available to support different levels
 - It’s completely okay to ask “basic” questions
 
-
 ## Who is it for?
-Researchers, students, support staff from all facultiesand anyone interested in:
+
+Researchers, students, support staff from all faculties and anyone interested in:
 
 - coding
 - data analysis
 - reproducible research
 - or just curious about programming
 
+## Code of Conduct
 
+- Use welcoming and inclusive language
+
+- Be respectful of different viewpoints and experiences
+
+- Gracefully except constructive criticism
+
+- Focus on what is best for the community
+
+- Respect licenses and copyright of shared materials and resources
+
+- Show courtesy and respect towards other community members
 
 ## Other Programming CAFÉs in the Netherlands
 
