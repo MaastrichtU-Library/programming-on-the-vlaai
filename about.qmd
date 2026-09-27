@@ -59,15 +59,10 @@ Researchers, students, support staff from all faculties and anyone interested in
 ## Code of Conduct
 
 - Use welcoming and inclusive language
-
 - Be respectful of different viewpoints and experiences
-
 - Gracefully except constructive criticism
-
 - Focus on what is best for the community
-
 - Respect licenses and copyright of shared materials and resources
-
 - Show courtesy and respect towards other community members
 
 ## Other Programming CAFÉs in the Netherlands
