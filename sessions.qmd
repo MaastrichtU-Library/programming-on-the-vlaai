@@ -5,16 +5,16 @@ subtitle: "An overview of all Programming on the Vlaai sessions"
 
 ## Upcoming sessions
 
-::: session-card
+:::: session-card
 ### Introduction to R {.session-title}
 
 ::: session-meta
-| | |
-|---|---|
-| 📅 **When** | 29 September 2026, 15:00–17:00 |
-| 📍 **Where** | Maastricht University — location TBC |
+|                 |                                                   |
+|-----------------|---------------------------------------------------|
+| 📅 **When**     | 29 September 2026, 15:00–17:00                    |
+| 📍 **Where**    | Maastricht University — location TBC              |
 | 👥 **For whom** | Researchers and students of Maastricht University |
-| 🎯 **Level** | [Level 0 – Level 2](about.qmd#the-levels) |
+| 🎯 **Level**    | [Level 0 – Level 2](about.qmd#the-levels)         |
 :::
 
 **Speaker:** Prof. Dr. Wolfgang Viechtbauer — Associate Professor of Methodology and Statistics, Department of Psychiatry, Faculty of Health, Medicine and Life Sciences, Maastricht University.
@@ -22,16 +22,55 @@ subtitle: "An overview of all Programming on the Vlaai sessions"
 R is one of the most widely used programming languages and open-source environments for statistical computing and data visualisation. It is applied across a broad range of research fields including the social sciences, economics, psychology, epidemiology, and bioinformatics.
 
 [Register](https://library.maastrichtuniversity.nl/events/programming-on-the-vlaai/){.btn .btn-primary}
+::::
+
+:::: session-card
+### Workshop documentation and reproducibility @ Maastricht Computing Days {.session-title}
+
+::: session-meta
+|                 |                                                   |
+|-----------------|---------------------------------------------------|
+| 📅 **When**     | 29 October 2026, 10:00–13:00                      |
+| 📍 **Where**    | Maastricht University — location TBC              |
+| 👥 **For whom** | Researchers and students of Maastricht University |
+| 🎯 **Level**    | [Level 0 – Level 2](about.qmd#the-levels)         |
 :::
 
----
+**Speakers:** Melisse Houbrechts and Alisa Huber — University Library, Maastricht University.
+
+This session will feature an interactive workshop on code documentation and reproducibility, led by the research software stewards of the University Library. The workshop will explore common challenges in documenting code, good practices, and tools that can help make your code easier to understand, use, and reproduce.
+
+[Register](https://library.maastrichtuniversity.nl/events/maastricht-computing-days-programming-on-the-vlaai-visit/){.btn .btn-primary}
+::::
+
+:::: session-card
+### R for qualitative data – For total newbies {.session-title}
+
+::: session-meta
+|                 |                                                   |
+|-----------------|---------------------------------------------------|
+| 📅 **When**     | 29 October 2026, 10:00–13:00                      |
+| 📍 **Where**    | Maastricht University — location TBC              |
+| 👥 **For whom** | Researchers and students of Maastricht University |
+| 🎯 **Level**    | [Level 0 – Level 2](about.qmd#the-levels)         |
+:::
+
+**Speaker:** Dr. Szilvia Zörgő — Departement Metamedica, Faculty of Health, Medicine and Life Sciences, Maastricht University.
+
+During this workshop, we will explore the fundamentals of working with textual data using the programming language R. We will explore use cases and do some digital experimentation ourselves, focused on topics such as qualitative coding and data segmentation, visualization, and analytical innovation. The workshop is designed for researchers who generally perform qualitative coding (by hand or with software) when working with their data, and would want to explore answers to the question: What is R and why would it be useful in my work?
+
+[Register](https://library.maastrichtuniversity.nl/events/programming-on-the-vlaai-2/){.btn .btn-primary}
+::::
+
+------------------------------------------------------------------------
 
 ## Past sessions
 
 *No past sessions yet — check back after September!*
 
----
+------------------------------------------------------------------------
 
+```{=html}
 <!--
 TEMPLATE — copy and paste this block to add a new session:
 
@@ -54,3 +93,4 @@ DESCRIPTION PARAGRAPH
 [Register](https://library.maastrichtuniversity.nl/events/programming-on-the-vlaai/){.btn .btn-primary}
 :::
 -->
+```
