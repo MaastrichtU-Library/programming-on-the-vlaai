@@ -25,7 +25,7 @@ R is one of the most widely used programming languages and open-source environme
 ::::
 
 :::: session-card
-### Workshop documentation and reproducibility @ Maastricht Computing Days {.session-title}
+### Workshop documentation and reproducibility \@ Maastricht Computing Days {.session-title}
 
 ::: session-meta
 |                 |                                                   |
@@ -49,7 +49,7 @@ This session will feature an interactive workshop on code documentation and repr
 ::: session-meta
 |                 |                                                   |
 |-----------------|---------------------------------------------------|
-| 📅 **When**     | 29 October 2026, 10:00–13:00                      |
+| 📅 **When**     | 24 November 2026, 15:00–17:00                     |
 | 📍 **Where**    | Maastricht University — location TBC              |
 | 👥 **For whom** | Researchers and students of Maastricht University |
 | 🎯 **Level**    | [Level 0 – Level 2](about.qmd#the-levels)         |
