@@ -6,25 +6,6 @@ subtitle: "An overview of all Programming on the Vlaai sessions"
 ## Upcoming sessions
 
 :::: session-card
-### Introduction to R {.session-title}
-
-::: session-meta
-|                 |                                                   |
-|-----------------|---------------------------------------------------|
-| 📅 **When**     | 29 September 2026, 15:00–17:00                    |
-| 📍 **Where**    | Maastricht University — location TBC              |
-| 👥 **For whom** | Researchers and students of Maastricht University |
-| 🎯 **Level**    | [Level 0 – Level 2](about.qmd#the-levels)         |
-:::
-
-**Speaker:** Prof. Dr. Wolfgang Viechtbauer — Associate Professor of Methodology and Statistics, Department of Psychiatry, Faculty of Health, Medicine and Life Sciences, Maastricht University.
-
-R is one of the most widely used programming languages and open-source environments for statistical computing and data visualisation. It is applied across a broad range of research fields including the social sciences, economics, psychology, epidemiology, and bioinformatics.
-
-[Register](https://library.maastrichtuniversity.nl/events/programming-on-the-vlaai/){.btn .btn-primary}
-::::
-
-:::: session-card
 ### Workshop documentation and reproducibility \@ Maastricht Computing Days {.session-title}
 
 ::: session-meta
@@ -71,26 +52,29 @@ During this workshop, we will explore the fundamentals of working with textual d
 ------------------------------------------------------------------------
 
 ```{=html}
-<!--
-TEMPLATE — copy and paste this block to add a new session:
+Introduction to R
 
-::: session-card
-### SESSION TITLE {.session-title}
+📅 When
 
-::: session-meta
-| | |
-|---|---|
-| 📅 **When** | DATE, TIME |
-| 📍 **Where** | LOCATION |
-| 👥 **For whom** | AUDIENCE |
-| 🎟️ **Registration** | https://library.maastrichtuniversity.nl/events/programming-on-the-vlaai/ |
-:::
+29 September 2026, 15:00–17:00
 
-**Speaker:** NAME — TITLE, DEPARTMENT, FACULTY, Maastricht University.
+📍 Where
 
-DESCRIPTION PARAGRAPH
+Maastricht University — Faculty of Science and Engineering, Paul-Henri Spaaklaan 1, Room C1.005.
 
-[Register](https://library.maastrichtuniversity.nl/events/programming-on-the-vlaai/){.btn .btn-primary}
-:::
--->
+👥 For whom
+
+Researchers and students of Maastricht University
+
+🎯 Level
+
+Level 0 – Level 2
+
+Speaker: Prof. Dr. Wolfgang Viechtbauer — Associate Professor of Methodology and Statistics, Department of Psychiatry, Faculty of Health, Medicine and Life Sciences, Maastricht University.
+
+R is one of the most widely used programming languages and open-source environments for statistical computing and data visualisation. It is applied across a broad range of research fields including the social sciences, economics, psychology, epidemiology, and bioinformatics.
+
+Material: 
+- https://github.com/wviechtb/workshop_2026_intro_to_r
+- https://zenodo.org/records/23191573
 ```
