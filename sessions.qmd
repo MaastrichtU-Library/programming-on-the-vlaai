@@ -47,34 +47,25 @@ During this workshop, we will explore the fundamentals of working with textual d
 
 ## Past sessions
 
-*No past sessions yet — check back after September!*
+:::: session-card
+### Introduction to R {.session-title}
 
-------------------------------------------------------------------------
+::: session-meta
+|                 |                                                   |
+|-----------------|---------------------------------------------------|
+| 📅 **When**     | 29 September 2026, 15:00–17:00                    |
+| 📍 **Where**    | FSE, Paul-Henri Spaaklaan 1, Room C1.005.         |
+| 👥 **For whom** | Researchers and students of Maastricht University |
+| 🎯 **Level**    | [Level 0 – Level 2](about.qmd#the-levels)         |
+:::
 
-```{=html}
-Introduction to R
-
-📅 When
-
-29 September 2026, 15:00–17:00
-
-📍 Where
-
-Maastricht University — Faculty of Science and Engineering, Paul-Henri Spaaklaan 1, Room C1.005.
-
-👥 For whom
-
-Researchers and students of Maastricht University
-
-🎯 Level
-
-Level 0 – Level 2
-
-Speaker: Prof. Dr. Wolfgang Viechtbauer — Associate Professor of Methodology and Statistics, Department of Psychiatry, Faculty of Health, Medicine and Life Sciences, Maastricht University.
+**Speaker:** Prof. Dr. Wolfgang Viechtbauer — Associate Professor of Methodology and Statistics, Department of Psychiatry, Faculty of Health, Medicine and Life Sciences, Maastricht University.
 
 R is one of the most widely used programming languages and open-source environments for statistical computing and data visualisation. It is applied across a broad range of research fields including the social sciences, economics, psychology, epidemiology, and bioinformatics.
 
-Material: 
-- https://github.com/wviechtb/workshop_2026_intro_to_r
-- https://zenodo.org/records/23191573
-```
+Material:
+
+\- <https://github.com/wviechtb/workshop_2026_intro_to_r>
+
+\- <https://zenodo.org/records/23191573>
+::::
