@@ -5,10 +5,11 @@ subtitle: |
   <span class="subtitle-tagline">Learn. Code. Collaborate. Together.</span>
 ---
 
-<div class="registration-banner">
-  <p> Registration for "Documentation and Reprodicibility" is now open!</p>
-  <a class="btn-register" href="https://library.maastrichtuniversity.nl/events/maastricht-computing-days-programming-on-the-vlaai-visit/" target="_blank">Register Now</a>
-</div>
+::: registration-banner
+<p>Registration for "Documentation and Reprodicibility" is now open!</p>
+
+<a class="btn-register" href="https://library.maastrichtuniversity.nl/events/maastricht-computing-days-programming-on-the-vlaai-visit/" target="_blank">Register Now</a>
+:::
 
 ::: hero
 ![](images/icoon_vlaai.jpg){width="260px"}
@@ -39,13 +40,14 @@ Intro to R and Python · Git & GitHub · AI tools for research · Data visualisa
 Sessions are labeled by [skill level](about.qmd#the-levels) — see the About page for details.
 
 ::: section-card
-| Session           | Speaker              | Date                 | Location | Level             |
-|--------------------|----------------------|----------------------|----------|-------------------|
-| [Introduction to R](sessions.qmd) | Wolfgang Viechtbauer | 29 September, 15:00  | TBC      | Level 0 – Level 2 |
+| Session | Speaker | Date | Location | Level |
+|---------------|---------------|---------------|---------------|---------------|
+| [Reproducibility and documentation](https://maastrichtu-library.github.io/programming-on-the-vlaai/sessions.html#workshop-documentation-and-reproducibility-maastricht-computing-days) | Melisse Houbrechts & Alisa Huber | 29 October, 10:00 | TBC | Level 0 – Level 2 |
+| [R for Qualitative data](https://maastrichtu-library.github.io/programming-on-the-vlaai/sessions.html#r-for-qualitative-data-for-total-newbies) | Szilvia Zörgő | 24 November, 15:00 | TBC | Level 0 - Level 2 |
 :::
 
 ## Contact us
 
 Have a question, suggestion, or idea for a session?
 
-Reach out to us at [researchsoftware-ub@maastrichtuniversity.nl](mailto:researchsoftware-ub@maastrichtuniversity.nl).
+Reach out to us at [researchsoftware-ub\@maastrichtuniversity.nl](mailto:researchsoftware-ub@maastrichtuniversity.nl).
